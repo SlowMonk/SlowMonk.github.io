@@ -41,7 +41,7 @@
     "web-animations-js": "2.2.5",
     "y-drawer": "6.1.1",
     "y-push-state": "6.3.0",
-    "lodash": ">=4.17.5",
+    "lodash": ">=4.17.21",
     "debug": ">=2.6.9",
     "randomatic": ">=3.0.0",
     "cached-path-relative": ">=1.0.2"
